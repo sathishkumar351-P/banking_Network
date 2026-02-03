@@ -1,0 +1,5 @@
+CREATE TABLE TRANSFER_TBL(
+Transaction_ID NUBER(4) PRIMARY KEY,
+Account_Number VARCHAR(10),
+Beneficiary_account_number VARCHAR(10))
+);
