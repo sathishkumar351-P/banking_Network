@@ -1,3 +1,5 @@
+Project Overview:
+
 This project is a simple Java console application that demonstrates how to connect a Java program to a database using JDBC.
 The application successfully establishes a database connection, executes an SQL query, and retrieves account balance information
 from the database. After executing the process, the balance amount is displayed in the console. The sample output shows a successful
